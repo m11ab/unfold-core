@@ -1,5 +1,9 @@
 # unfold.quest
 
+> **Legal Disclosure & Liability Disclaimer**
+>
+> The information and data presented in this project have been collected and/or synthesized using generative AI tools (including, but not limited to, Perplexity and Gemini) from publicly available internet sources. As such, the content may contain inaccuracies, errors, or outdated information. The data does not reflect the views or opinions of the project authors, contributors, or design team. All users are solely responsible for verifying the accuracy, legality, and appropriateness of any information before relying on it or using it in any context. The authors, contributors, and maintainers of this project expressly disclaim any and all liability for damages or losses arising from the use or misuse of the information contained herein. Use at your own risk.
+
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Status](https://img.shields.io/badge/Status-Prototype-blue.svg)](https://github.com/m11ab/unfold-core)
 [![Competition](https://img.shields.io/badge/Competition-EU_AI_Challenge-9cf.svg)](https://www.haw-hamburg.de/en/ftz-nk/programmes-and-networks/european-universities-competition-on-artificial-intelligence/)
