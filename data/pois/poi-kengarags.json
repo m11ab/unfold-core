@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "description": "A curated list of Points of Interest (POIs) for the unfold.quest project, extracted from a user-provided document.",
+    "source_document_title": "Soviet-Era Public Art in Purvciems District, Riga: An Urban Explorer's Guide",
+    "schema_version": "1.1",
+    "created_at": "2025-07-20T10:00:00Z"
+  },
+  "pois": [
+    {
+      "poi_id": "riga_kengarags_promenade",
+      "title": "Ķengarags Promenade",
+      "coordinates": {
+        "latitude": 56.911,
+        "longitude": 24.185
+      },
+      "address": "Along the Daugava River, Ķengarags, Riga, LV-1063",
+      "category": "Nature",
+      "description": "The district's most significant community gathering space, acclaimed as 'the most beautiful walking route in Riga'. This several-kilometer-long waterfront features wooden decks, cycling paths, playgrounds, and a bird-watching tower, serving as a vital hub for recreation and social interaction.",
+      "narrative_hooks": {
+        "history": "Represents a significant transformation for Ķengarags, with residents identifying it as giving the neighborhood 'its strength' over the Soviet-era apartment blocks.",
+        "fun_fact": "Grilling is permitted in designated areas, making it a popular spot for picnics and outdoor gatherings.",
+        "architectural_detail": "Features wooden decks, cycling paths, playgrounds, and a bird-watching tower, integrated into the natural riverside landscape."
+      },
+      "media": {
+        "image_url": null,
+        "attribution_text": null
+      },
+      "practical_info": {
+        "type": "Outdoor",
+        "cost": "Free",
+        "operating_hours": "24/7",
+        "estimated_duration_minutes": 60
+      }
+    },
+    {
+      "poi_id": "riga_dole_shopping_center",
+      "title": "Dole Shopping Center",
+      "coordinates": {
+        "latitude": 56.897,
+        "longitude": 24.167
+      },
+      "address": "Maskavas iela 357, Ķengarags, Riga, LV-1063",
+      "category": "Hidden Gem",
+      "description": "A crucial social and commercial hub in Ķengarags, originally established in 1997 as Latvia's first Western-style shopping center. It provides essential services including a supermarket, medical center, restaurants, and pharmacy, serving as a community anchor for over 45,000 residents.",
+      "narrative_hooks": {
+        "history": "Originally opened as a department store in 1987, it became Latvia's first Western-style shopping center in 1997, marking a significant post-Soviet commercial development.",
+        "fun_fact": "Residents identify Dole as one of the 'most characteristic landmarks of the neighbourhood'.",
+        "architectural_detail": "Underwent major renovations in 2004 and 2022, including the addition of a 1,000 sqm medical center."
+      },
+      "media": {
+        "image_url": null,
+        "attribution_text": null
+      },
+      "practical_info": {
+        "type": "Indoor",
+        "cost": "Free (for entry, shopping costs vary)",
+        "operating_hours": "Daily, check specific store hours",
+        "estimated_duration_minutes": 30
+      }
+    },
+    {
+      "poi_id": "riga_kengarags_library",
+      "title": "Ķengarags Library",
+      "coordinates": {
+        "latitude": 56.8995,
+        "longitude": 24.1567
+      },
+      "address": "Latgales iela 271A, Ķengarags, Riga, LV-1063",
+      "category": "Hidden Gem",
+      "description": "A vital cultural and educational hub in Ķengarags, part of the Riga Central Library system. It offers traditional library services, computer access, and community programming, serving as an information center and quiet gathering space for residents with extensive hours and accessibility features.",
+      "narrative_hooks": {
+        "history": "As part of the Riga Central Library system, it represents continuity of public service and cultural access in the district.",
+        "fun_fact": "Libraries like this often function as 'the commons,' democratic spaces that strengthen neighborhood identity.",
+        "architectural_detail": null
+      },
+      "media": {
+        "image_url": null,
+        "attribution_text": null
+      },
+      "practical_info": {
+        "type": "Indoor",
+        "cost": "Free",
+        "operating_hours": "Extensive hours throughout the week (check current schedule)",
+        "estimated_duration_minutes": 30
+      }
+    },
+    {
+      "poi_id": "riga_kengarags_music_arts_school",
+      "title": "Ķengarags Music and Arts School",
+      "coordinates": {
+        "latitude": 56.912,
+        "longitude": 24.168
+      },
+      "address": "Prūšu iela 13B, Ķengarags, Riga, LV-1057",
+      "category": "Art",
+      "description": "Established in 1992, this cultural and educational institution offers music and visual arts education to local children and youth. Its courtyard often hosts community cultural events, including summer concert series and Midsummer festivals, investing in the district's youth culture.",
+      "narrative_hooks": {
+        "history": "Founded in 1992, it provides local children with creative opportunities, bridging access to arts education in the district.",
+        "fun_fact": "The school's courtyard has become a venue for cultural events, including the mobile cultural space 'Strops' summer concert series.",
+        "architectural_detail": null
+      },
+      "media": {
+        "image_url": null,
+        "attribution_text": null
+      },
+      "practical_info": {
+        "type": "Indoor",
+        "cost": "Free (for exterior viewing/some public events)",
+        "operating_hours": "Varies by school schedule and events",
+        "estimated_duration_minutes": 15
+      }
+    },
+    {
+      "poi_id": "riga_kengarags_park",
+      "title": "Ķengarags Park",
+      "coordinates": {
+        "latitude": 56.910,
+        "longitude": 24.175
+      },
+      "address": "Near Maskavas iela, Ķengarags, Riga, LV-1063",
+      "category": "Nature",
+      "description": "A central green space and community gathering area, designated as a priority development area in Riga's neighborhood center masterplan. It hosts the annual Ķengarags neighborhood festival, featuring workshops, local business showcases, and concerts, demonstrating its role as a venue for community celebration.",
+      "narrative_hooks": {
+        "history": "Part of Riga's neighborhood center masterplan, with planned improvements to enhance its role as a recreational hub.",
+        "fun_fact": "Hosted the first of Riga's ten neighborhood festivals in 2023, featuring a wide array of creative and cultural activities.",
+        "architectural_detail": null
+      },
+      "media": {
+        "image_url": null,
+        "attribution_text": null
+      },
+      "practical_info": {
+        "type": "Outdoor",
+        "cost": "Free",
+        "operating_hours": "24/7",
+        "estimated_duration_minutes": 30
+      }
+    }
+  ]
+}

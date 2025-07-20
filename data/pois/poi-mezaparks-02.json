@@ -1,0 +1,88 @@
+{
+  "metadata": {
+    "description": "A curated list of Points of Interest (POIs) for the unfold.quest project, extracted from a user-provided document.",
+    "source_document_title": "The Mežaparks Grand Bandstand: Sanctuary of Song and Symbol of Freedom",
+    "schema_version": "1.1",
+    "created_at": "2025-07-20T10:00:00Z"
+  },
+  "pois": [
+    {
+      "poi_id": "riga_mezaparks_grand_bandstand",
+      "title": "Mežaparks Grand Bandstand",
+      "coordinates": {
+        "latitude": 57.0125,
+        "longitude": 24.1633
+      },
+      "address": "Ostas prospekts 11, Mežaparks, Riga, LV-1014",
+      "category": "Architecture",
+      "description": "Built in 1955 during Soviet occupation, this iconic venue is the spiritual home of the Latvian Song and Dance Festival. Designed by Vladimir Schnitnikov, it can host 16,000 singers and 70,000 spectators, playing a pivotal role in preserving Latvian identity and the peaceful Singing Revolution.",
+      "narrative_hooks": {
+        "history": "Constructed in 1955 under Soviet occupation to host the Latvian Song and Dance Festival, it became a sanctuary for national identity and a symbol of peaceful resistance during the Singing Revolution.",
+        "fun_fact": "The spontaneous 'Nocturnal Sing-along' tradition began in 2003, where performers and audience members would continue singing folk songs until sunrise after the official concert ended.",
+        "architectural_detail": "Features a crescent-shaped amphitheater and a stage capable of hosting 16,000 singers, with sophisticated acoustic engineering including 300 acoustic shields."
+      },
+      "media": {
+        "image_url": null,
+        "attribution_text": null
+      },
+      "practical_info": {
+        "type": "Outdoor",
+        "cost": "Free (for exterior viewing, event tickets vary)",
+        "operating_hours": "Varies by event, generally accessible during daylight hours",
+        "estimated_duration_minutes": 20
+      }
+    },
+    {
+      "poi_id": "riga_dainu_skapis",
+      "title": "Dainu Skapis (Cabinet of Folk Songs)",
+      "coordinates": {
+        "latitude": 56.9496,
+        "longitude": 24.1052
+      },
+      "address": "Latvian National Library, Mūkusalas iela 3, Riga, LV-1423 (primary location for research)",
+      "category": "History",
+      "description": "A UNESCO Memory of the World heritage site, this cabinet contains nearly 218,000 Latvian folk song texts (dainas) collected by Krišjānis Barons. These four-line verses, forming over 1.2 million folk songs, represent the profound cultural foundation and 'second Latvian Bible' that fueled national identity and peaceful resistance.",
+      "narrative_hooks": {
+        "history": "Compiled by Krišjānis Barons between 1894-1915, this collection became a cornerstone of Latvian cultural identity and was crucial during periods of foreign occupation.",
+        "fun_fact": "The Dainas, ancient Latvian folk songs, are considered the 'second Latvian Bible' due to their profound cultural and historical significance.",
+        "architectural_detail": "A physical cabinet, but its significance lies in its contents – the vast collection of Latvian folk songs."
+      },
+      "media": {
+        "image_url": null,
+        "attribution_text": null
+      },
+      "practical_info": {
+        "type": "Indoor",
+        "cost": "Free",
+        "operating_hours": "Check Latvian National Library opening hours",
+        "estimated_duration_minutes": 20
+      }
+    },
+    {
+      "poi_id": "riga_freedom_monument",
+      "title": "Freedom Monument",
+      "coordinates": {
+        "latitude": 56.9515,
+        "longitude": 24.1132
+      },
+      "address": "Brīvības bulvāris, Centrs, Riga, LV-1050",
+      "category": "History",
+      "description": "A pivotal symbol of Latvian independence, built in 1935. It became the starting point of the Singing Revolution when peaceful demonstrations began here on June 14, 1987, commemorating deportation victims and reigniting the national independence movement that ultimately restored Latvia's sovereignty.",
+      "narrative_hooks": {
+        "history": "Built in 1935, it became a focal point for the Latvian independence movement, notably on June 14, 1987, when demonstrations here marked the start of the Singing Revolution.",
+        "fun_fact": "The monument is a central gathering place for national holidays and commemorative events.",
+        "architectural_detail": "A prominent obelisk topped by a female figure holding three stars, symbolizing Latvia's regions."
+      },
+      "media": {
+        "image_url": null,
+        "attribution_text": null
+      },
+      "practical_info": {
+        "type": "Outdoor",
+        "cost": "Free",
+        "operating_hours": "24/7",
+        "estimated_duration_minutes": 15
+      }
+    }
+  ]
+}

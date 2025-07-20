@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "description": "A curated list of Points of Interest (POIs) for the unfold.quest project, extracted from a user-provided document.",
+    "source_document_title": "Historic Wooden Architecture of Āgenskalns and Zasulauks: A Preservationist's Guide",
+    "schema_version": "1.1",
+    "created_at": "2025-07-20T10:00:00Z"
+  },
+  "pois": [
+    {
+      "poi_id": "riga_hartmann_manor_complex",
+      "title": "Hartmann Manor Complex",
+      "coordinates": {
+        "latitude": 56.9381,
+        "longitude": 24.0628
+      },
+      "address": "Kalnciema iela 28/30, Āgenskalns, Riga, LV-1046",
+      "category": "Architecture",
+      "description": "The oldest building in Āgenskalns, this late 18th to early 19th-century complex showcases Baroque and Classicism styles. It features a main manor house with a mansard roof and a classicist gallery with white columns, serving as a testament to Riga's patrician history. Today it houses an outdoor equipment store.",
+      "narrative_hooks": {
+        "history": "Served as the estate of the wealthy Hartmann family for over two centuries, demonstrating the living style of wealthy Rigans.",
+        "fun_fact": "The classicist gallery was built as a ballroom, an essential social space for the manor owner, Jacob Kollins.",
+        "architectural_detail": "Features blockwork construction typical of 18th-century Latvian wooden architecture, with Baroque and Classicist elements."
+      },
+      "media": {
+        "image_url": null,
+        "attribution_text": null
+      },
+      "practical_info": {
+        "type": "Outdoor",
+        "cost": "Free (for exterior viewing, store access may vary)",
+        "operating_hours": "Check Gandrs store hours",
+        "estimated_duration_minutes": 10
+      }
+    },
+    {
+      "poi_id": "riga_svarcmuiza",
+      "title": "Švarcmuiža (Schwarzhof)",
+      "coordinates": {
+        "latitude": 56.9463,
+        "longitude": 24.0487
+      },
+      "address": "Daugavgrīvas iela 19/21, Āgenskalns, Riga, LV-1048",
+      "category": "History",
+      "description": "A magnificent Neo-Renaissance manor, rebuilt in 1872 by architect Matias Holst. Originally Hagen's Manor from the 17th century, it gave Āgenskalns its name. This elegant building, with its classical elements, once hosted philosophers Johann Georg Hamann and Johann Gottfried Herder.",
+      "narrative_hooks": {
+        "history": "Originally the 17th-century Hagen's Manor, which gave the Āgenskalns district its name. It was inherited by the Schwarz family in 1768.",
+        "fun_fact": "Philosophers Johann Georg Hamann and Johann Gottfried Herder were frequent guests, taking walks in what locals called 'Philosophers' Alley'.",
+        "architectural_detail": "Embodies Neo-Renaissance style with frontispieces, pilasters, and entablatures, echoing Roman villa architecture."
+      },
+      "media": {
+        "image_url": null,
+        "attribution_text": null
+      },
+      "practical_info": {
+        "type": "Outdoor",
+        "cost": "Free (for exterior viewing)",
+        "operating_hours": "Generally accessible for exterior viewing",
+        "estimated_duration_minutes": 10
+      }
+    },
+    {
+      "poi_id": "riga_kalnciema_quarter_wooden_houses",
+      "title": "Kalnciema Quarter Wooden Houses",
+      "coordinates": {
+        "latitude": 56.9387,
+        "longitude": 24.0569
+      },
+      "address": "Kalnciema iela 35 / Melnsila iela intersection, Āgenskalns, Riga, LV-1046",
+      "category": "Architecture",
+      "description": "An ensemble of beautifully restored late 18th to 19th-century wooden buildings, representing one of Riga's most successful preservation projects. This complex now houses cultural venues, a wooden architecture center, and a popular weekly farmers' market.",
+      "narrative_hooks": {
+        "history": "Restored by brothers Mārtiņš and Kārlis Dambergs starting in 2001, transforming seven buildings for contemporary use while preserving traditional methods.",
+        "fun_fact": "The weekly Saturday farmers' market, established in 2008, has become a symbol of Riga's cultural renaissance.",
+        "architectural_detail": "Showcases traditional wooden construction methods, meticulously restored to preserve their historic character."
+      },
+      "media": {
+        "image_url": null,
+        "attribution_text": null
+      },
+      "practical_info": {
+        "type": "Outdoor",
+        "cost": "Free (some events/shops may have costs)",
+        "operating_hours": "Open daily, market on Saturdays",
+        "estimated_duration_minutes": 30
+      }
+    },
+    {
+      "poi_id": "riga_volfsmit_manor_houses",
+      "title": "Volfsmit Manor Houses",
+      "coordinates": {
+        "latitude": 56.9536,
+        "longitude": 24.0322
+      },
+      "address": "Kandavas iela 2 (Botanical Garden), Zasulauks, Riga, LV-1067",
+      "category": "Architecture",
+      "description": "Three exceptional Neo-Classical wooden manor houses located within the University of Latvia's Botanical Garden, remnants of the old Zasu Manor complex. Dating from the late 18th to mid-19th century, they feature beautiful wooden columns and represent classic wooden construction techniques.",
+      "narrative_hooks": {
+        "history": "Part of the old Zasu Manor complex, once owned by Latvian entrepreneur Jānis Steinhauers in the mid-18th century.",
+        "fun_fact": "The complex once housed a private neurological clinic and later a gardening enterprise.",
+        "architectural_detail": "Exemplifies mid-19th century Neo-Classical wooden construction, with one manor featuring beautiful wooden columns."
+      },
+      "media": {
+        "image_url": null,
+        "attribution_text": null
+      },
+      "practical_info": {
+        "type": "Outdoor",
+        "cost": "€ (Botanical Garden entrance fee applies)",
+        "operating_hours": "Check Botanical Garden hours",
+        "estimated_duration_minutes": 20
+      }
+    },
+    {
+      "poi_id": "riga_melnsila_iela_villas",
+      "title": "Historic Wooden Villas along Melnsila iela",
+      "coordinates": {
+        "latitude": 56.9392,
+        "longitude": 24.0560
+      },
+      "address": "Melnsila iela (various addresses), Āgenskalns, Riga, LV-1046",
+      "category": "Architecture",
+      "description": "A collection of well-preserved late 19th to early 20th-century wooden houses on Melnsila iela, showcasing diverse architectural styles including Swiss chalet and early Art Nouveau influences. These residences reflect Riga's rapid population growth and the enduring tradition of wooden construction.",
+      "narrative_hooks": {
+        "history": "These villas were built during Riga's period of massive population growth due to industrialization and the port's importance.",
+        "fun_fact": "Some houses feature distinct Swiss chalet-style elements, showcasing varied architectural trends.",
+        "architectural_detail": "Features diverse 19th-century wooden architectural styles, including Swiss chalet and early Art Nouveau decorative details."
+      },
+      "media": {
+        "image_url": null,
+        "attribution_text": null
+      },
+      "practical_info": {
+        "type": "Outdoor",
+        "cost": "Free",
+        "operating_hours": "24/7",
+        "estimated_duration_minutes": 20
+      }
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "metadata": {
+    "description": "A curated list of Points of Interest (POIs) for the unfold.quest project, extracted from a user-provided document.",
+    "source_document_title": "Soviet-Era Public Art in Purvciems District, Riga: An Urban Explorer's Guide",
+    "schema_version": "1.1",
+    "created_at": "2025-07-20T10:00:00Z"
+  },
+  "pois": [
+    {
+      "poi_id": "riga_purvciems_microdistrict",
+      "title": "Purvciems Microdistrict",
+      "coordinates": {
+        "latitude": 56.963,
+        "longitude": 24.185
+      },
+      "address": "Purvciems, Riga, LV-1035",
+      "category": "Architecture",
+      "description": "A significant example of Soviet urban planning and modernist architecture in Riga, developed extensively from 1970-1985. Designed as a comprehensive microdistrict for 65,000 inhabitants, it features various architectural series and public spaces that would have incorporated monumental-decorative art, though many elements may have been removed post-independence.",
+      "narrative_hooks": {
+        "history": "Developed from 1970-1985 as a model Soviet microdistrict, initially planned by Gunārs Melbergs, Ruta Paikule, and Dagnija Sila.",
+        "fun_fact": "The district was designed using a hexagonal planning module and intended for 65,000 inhabitants.",
+        "architectural_detail": "Features 9-story '602 Series' panel buildings with white ceramic tile facades and innovative 'French Project' monolithic concrete towers (21- and 19-stories tall)."
+      },
+      "media": {
+        "image_url": null,
+        "attribution_text": null
+      },
+      "practical_info": {
+        "type": "Outdoor",
+        "cost": "Free",
+        "operating_hours": "24/7",
+        "estimated_duration_minutes": 60
+      }
+    },
+    {
+      "poi_id": "riga_minsk_shopping_center",
+      "title": "Minska Shopping Center",
+      "coordinates": {
+        "latitude": 56.9592,
+        "longitude": 24.1834
+      },
+      "address": "Nīcgales iela 2, Purvciems, Riga, LV-1035",
+      "category": "Architecture",
+      "description": "Opened in 1975, this modernist commercial complex in Purvciems originally featured circular decorative openings and expressive brutalist elements. Named after the Belarusian capital, it was a prime candidate for Soviet monumental-decorative art, reflecting the 'friendship of peoples' symbolism.",
+      "narrative_hooks": {
+        "history": "Opened in 1975, part of the Soviet 'friendship of peoples' symbolism, named after the Belarusian capital.",
+        "fun_fact": "Original design featured expressive brutalist elements and circular decorative openings, characteristic of 1970s Soviet modernist architecture.",
+        "architectural_detail": "Known for its modernist commercial complex design with distinctive circular decorative openings and brutalist architectural elements."
+      },
+      "media": {
+        "image_url": null,
+        "attribution_text": null
+      },
+      "practical_info": {
+        "type": "Indoor",
+        "cost": "Free",
+        "operating_hours": "Check current shopping center hours",
+        "estimated_duration_minutes": 15
+      }
+    },
+    {
+      "poi_id": "riga_mebelu_nams",
+      "title": "Mēbeļu Nams (Furniture House)",
+      "coordinates": {
+        "latitude": 56.9649,
+        "longitude": 24.1884
+      },
+      "address": "Bērzaunes iela 11a, Purvciems, Riga, LV-1035",
+      "category": "Architecture",
+      "description": "Once the largest furniture store in the Baltic States, Mēbeļu Nams was designed by Raimondas and Sergejs Lubovičs. This significant commercial building in Purvciems features distinctive architectural elements, including a prominent decorative pylon, indicative of late Soviet modernism and its blend with commercial functionality.",
+      "narrative_hooks": {
+        "history": "Designed by Raimondas and Sergejs Lubovičs, it was once the largest furniture store in the entire Baltic States during the Soviet era.",
+        "fun_fact": "The building was designed to be a prominent commercial landmark within the Purvciems microdistrict.",
+        "architectural_detail": "Features distinctive architectural elements, including a decorative pylon with corporate signage."
+      },
+      "media": {
+        "image_url": null,
+        "attribution_text": null
+      },
+      "practical_info": {
+        "type": "Indoor",
+        "cost": "Free",
+        "operating_hours": "Check current store hours",
+        "estimated_duration_minutes": 15
+      }
+    }
+  ]
+}

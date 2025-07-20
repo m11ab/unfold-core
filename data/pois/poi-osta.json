@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "description": "A curated list of Points of Interest (POIs) for the unfold.quest project, extracted from a user-provided document.",
+    "source_document_title": "Transformative Sites in Pētersala-Andrejsala",
+    "schema_version": "1.1",
+    "created_at": "2025-07-20T10:00:00Z"
+  },
+  "pois": [
+    {
+      "poi_id": "riga_latvian_museum_of_naive_art",
+      "title": "Latvian Museum of Naïve Art",
+      "coordinates": {
+        "latitude": 56.9602,
+        "longitude": 24.1039
+      },
+      "address": "Eksporta iela 3, Pētersala-Andrejsala, Riga, LV-1010",
+      "category": "Art",
+      "description": "Housed in the former Customs Warehouse (Ārvalstu Muitas noliktava) built around 1905, this art museum is dedicated to naïve and primitive art. It features rotating exhibitions of Latvian and international self-taught artists, showcasing the district's transformation from industrial to cultural space.",
+      "narrative_hooks": {
+        "history": "Located in the former Customs Warehouse, built around 1905, which originally stored imported goods from the Daugava River docks.",
+        "fun_fact": "The museum showcases 'naive' art, created by self-taught artists who are often outside the traditional art world.",
+        "architectural_detail": "A historical industrial building repurposed into an art museum, preserving elements of its original warehouse structure."
+      },
+      "media": {
+        "image_url": null,
+        "attribution_text": null
+      },
+      "practical_info": {
+        "type": "Indoor",
+        "cost": "€",
+        "operating_hours": "Check museum website for opening hours",
+        "estimated_duration_minutes": 45
+      }
+    },
+    {
+      "poi_id": "riga_latvenergo_energy_museum",
+      "title": "Latvenergo Energy Museum (Power Industry Museum)",
+      "coordinates": {
+        "latitude": 56.9587,
+        "longitude": 24.1018
+      },
+      "address": "Andrejostas iela 19, Pētersala-Andrejsala, Riga, LV-1045",
+      "category": "History",
+      "description": "Located in Riga's first city power station, completed in 1905, this museum holds 45,000 artifacts related to the power industry, including glass-plate negatives of Ķegums HPP construction and Soviet-era appliances. It's open by appointment and for seasonal public tours.",
+      "narrative_hooks": {
+        "history": "Occupies Riga’s first city power station, completed in 1905, which was crucial for meeting the city’s growing electricity demand.",
+        "fun_fact": "The museum's collection includes rare glass-plate negatives documenting the construction of the Ķegums Hydroelectric Power Plant.",
+        "architectural_detail": "The building itself is a significant piece of industrial heritage, having been Riga's pioneering power station."
+      },
+      "media": {
+        "image_url": null,
+        "attribution_text": null
+      },
+      "practical_info": {
+        "type": "Indoor",
+        "cost": "Free (by appointment/seasonal tours)",
+        "operating_hours": "By appointment, check Latvenergo website for public tour dates",
+        "estimated_duration_minutes": 60
+      }
+    },
+    {
+      "poi_id": "riga_a_rezidences_artists_residence",
+      "title": "A. Rezidences – Artists’ Residence & Gallery",
+      "coordinates": {
+        "latitude": 56.9601,
+        "longitude": 24.1009
+      },
+      "address": "Andrejosta iela 5, Pētersala-Andrejsala, Riga, LV-1045",
+      "category": "Art",
+      "description": "Adapted from the former two-story office of the Herring Grading Plant, this space now functions as live-work studios and an exhibition gallery for visiting artists. It hosts temporary shows and workshops, reflecting the artistic renaissance of the Andrejsala area.",
+      "narrative_hooks": {
+        "history": "Originally the office building for a Herring Grading Plant that sorted and dispatched fish across the Russian Empire in the early 20th century.",
+        "fun_fact": "This transformation showcases the adaptive reuse of industrial buildings into creative spaces.",
+        "architectural_detail": "A two-story former industrial office building repurposed with modern interior for artist studios and galleries."
+      },
+      "media": {
+        "image_url": null,
+        "attribution_text": null
+      },
+      "practical_info": {
+        "type": "Indoor",
+        "cost": "Free (for gallery access, subject to exhibitions)",
+        "operating_hours": "Varies by exhibition and workshop schedule",
+        "estimated_duration_minutes": 30
+      }
+    },
+    {
+      "poi_id": "riga_riboca2_biennial_venue",
+      "title": "RIBOCA2 Biennial Venue (Film Set)",
+      "coordinates": {
+        "latitude": 56.9607,
+        "longitude": 24.1023
+      },
+      "address": "Andrejsala Quay and adjacent warehouse halls, Pētersala-Andrejsala, Riga, LV-1045",
+      "category": "Art",
+      "description": "This site utilized abandoned dockside warehouses and piers for the 2020 Riga International Biennial of Contemporary Art (RIBOCA2). The biennial was uniquely reimagined as a feature film set, showcasing installations by 46 artists and highlighting the area's potential for large-scale cultural events.",
+      "narrative_hooks": {
+        "history": "Utilizes abandoned dockside warehouses and piers, which historically stored timber and grain for shipment, transforming them into a temporary art space.",
+        "fun_fact": "The 2020 biennial was uniquely staged as a feature film set, allowing art installations to be experienced in a cinematic context.",
+        "architectural_detail": "A collection of large, abandoned industrial warehouses and quays along the waterfront, showcasing their raw, industrial aesthetic."
+      },
+      "media": {
+        "image_url": null,
+        "attribution_text": null
+      },
+      "practical_info": {
+        "type": "Outdoor",
+        "cost": "Varies by event (Biennial is not permanent)",
+        "operating_hours": "Only accessible during specific events/exhibitions",
+        "estimated_duration_minutes": 45
+      }
+    },
+    {
+      "poi_id": "riga_ropax_ferry_terminal_construction",
+      "title": "Riga ROPAX Ferry Terminal (Zaha Hadid Architects)",
+      "coordinates": {
+        "latitude": 56.9615,
+        "longitude": 24.1045
+      },
+      "address": "Berth EO-6 at Eksporta iela 7–9, Pētersala-Andrejsala, Riga, LV-1010",
+      "category": "Architecture",
+      "description": "Currently under construction, this future mixed passenger and roll-on/roll-off cargo terminal is a redevelopment of a 1960s reinforced-concrete shipping warehouse. Designed by Zaha Hadid Architects, it will feature public terraces overlooking the Daugava and new tram connections.",
+      "narrative_hooks": {
+        "history": "A redevelopment of a 1960s reinforced-concrete shipping warehouse, originally used for refrigerated goods and machinery.",
+        "fun_fact": "Designed by the internationally renowned Zaha Hadid Architects, indicating a significant modern architectural addition to the area.",
+        "architectural_detail": "A modernist redevelopment of a 1960s industrial warehouse into a contemporary ferry terminal, featuring distinctive architectural design."
+      },
+      "media": {
+        "image_url": null,
+        "attribution_text": null
+      },
+      "practical_info": {
+        "type": "Outdoor",
+        "cost": "Free (for exterior viewing of construction)",
+        "operating_hours": "Under construction, not yet operational for public use",
+        "estimated_duration_minutes": 10
+      }
+    }
+  ]
+}

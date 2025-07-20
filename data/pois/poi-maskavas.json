@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "description": "A curated list of Points of Interest (POIs) for the unfold.quest project, extracted from a user-provided document.",
+    "source_document_title": "Maskavas Forštate: Five Historical Highlights",
+    "schema_version": "1.1",
+    "created_at": "2025-07-20T10:00:00Z"
+  },
+  "pois": [
+    {
+      "poi_id": "riga_old_jewish_cemetery",
+      "title": "Old Jewish Cemetery",
+      "coordinates": {
+        "latitude": 56.9419,
+        "longitude": 24.1438
+      },
+      "address": "Līksnas Street 2/4, Maskavas Forštate, Riga, LV-1019",
+      "category": "History",
+      "description": "This former burial ground for Riga’s Jewish community (1730s-1930s) became part of the Riga Ghetto during WWII, with thousands executed or buried here. Razed by Soviet authorities in 1960 and turned into a park, it now features memorial stones erected in 1994 and 2007.",
+      "narrative_hooks": {
+        "history": "Served as the main burial ground for Riga’s Jewish community from the 1730s until WWII, when it fell within the Riga Ghetto.",
+        "fun_fact": "Many original gravestones were controversially repurposed by Soviet authorities for roadworks and building foundations, with only a few remaining in the park's pathways.",
+        "architectural_detail": "A park with memorial stones, representing the site of a once-active cemetery and later a tragic WWII ghetto area."
+      },
+      "media": {
+        "image_url": null,
+        "attribution_text": null
+      },
+      "practical_info": {
+        "type": "Outdoor",
+        "cost": "Free",
+        "operating_hours": "24/7",
+        "estimated_duration_minutes": 15
+      }
+    },
+    {
+      "poi_id": "riga_great_choral_synagogue_memorial",
+      "title": "Great Choral Synagogue Memorial",
+      "coordinates": {
+        "latitude": 56.9472,
+        "longitude": 24.1207
+      },
+      "address": "Dzirnavu Street 6, Maskavas Forštate, Riga, LV-1050",
+      "category": "History",
+      "description": "Site of the former Great Choral Synagogue, once the grandest in the Baltics, built in 1871. On July 4, 1941, Nazis and collaborators burned it with congregants inside. Its ruined walls now frame a memorial plaque and a bronze Torah scroll relief, commemorating the victims.",
+      "narrative_hooks": {
+        "history": "On July 4, 1941, the synagogue was burned down by Nazis and local collaborators with hundreds of congregants inside, a tragic event in Riga's Holocaust history.",
+        "fun_fact": "Legend states a Christian street vendor secretly rescued a Torah scroll from the burning synagogue, hiding it under his cart.",
+        "architectural_detail": "The ruined walls of the synagogue frame a memorial plaque and a bronze Torah scroll relief, forming a poignant open-air memorial."
+      },
+      "media": {
+        "image_url": null,
+        "attribution_text": null
+      },
+      "practical_info": {
+        "type": "Outdoor",
+        "cost": "Free",
+        "operating_hours": "24/7",
+        "estimated_duration_minutes": 10
+      }
+    },
+    {
+      "poi_id": "riga_ghetto_holocaust_museum",
+      "title": "Museum of Riga Ghetto and Holocaust in Latvia",
+      "coordinates": {
+        "latitude": 56.9443,
+        "longitude": 24.1257
+      },
+      "address": "Turgeneva Street 2, Maskavas Forštate, Riga, LV-1050",
+      "category": "History",
+      "description": "Opened in 2010 near the former ghetto boundary, this private museum is dedicated to the history of the Riga Ghetto and the Holocaust in Latvia. Its centerpiece is a reconstructed wooden ghetto flat, illustrating the cramped living conditions, and features original barbed-wire fencing remnants and embedded perimeter stones.",
+      "narrative_hooks": {
+        "history": "Located near the former Riga Ghetto boundary, the museum provides a poignant insight into the lives and fates of Jews during the Holocaust.",
+        "fun_fact": "Stones from the actual ghetto perimeter, where Jews bricked up windows, are integrated into the museum grounds as silent sentinels.",
+        "architectural_detail": "Features a reconstructed wooden ghetto flat and remnants of original barbed-wire fencing and perimeter stones."
+      },
+      "media": {
+        "image_url": null,
+        "attribution_text": null
+      },
+      "practical_info": {
+        "type": "Indoor",
+        "cost": "€",
+        "operating_hours": "Check museum website for opening hours",
+        "estimated_duration_minutes": 60
+      }
+    },
+    {
+      "poi_id": "riga_central_market",
+      "title": "Central Market",
+      "coordinates": {
+        "latitude": 56.9439,
+        "longitude": 24.1147
+      },
+      "address": "Nēģu iela 7, Maskavas Forštate, Riga, LV-1050",
+      "category": "Food & Drink",
+      "description": "Erected in 1930, Riga Central Market is one of Europe's largest market complexes, creatively repurposed from five WWI Zeppelin hangars on the Daugava River banks. It remains a vibrant hub for local produce, goods, and a cultural experience.",
+      "narrative_hooks": {
+        "history": "The market complex was ingeniously built using five repurposed WWI German Zeppelin hangars, transported by rail and reassembled on-site.",
+        "fun_fact": "At its opening in 1930, it was the largest market complex in Europe and remains one of the world's biggest.",
+        "architectural_detail": "Consists of five massive, repurposed Zeppelin hangars, forming distinct pavilions for various goods."
+      },
+      "media": {
+        "image_url": null,
+        "attribution_text": null
+      },
+      "practical_info": {
+        "type": "Indoor",
+        "cost": "Free (for entry, shopping costs vary)",
+        "operating_hours": "Daily, check specific pavilion hours (typically 07:00-18:00)",
+        "estimated_duration_minutes": 90
+      }
+    },
+    {
+      "poi_id": "riga_latvian_academy_of_sciences",
+      "title": "Latvian Academy of Sciences",
+      "coordinates": {
+        "latitude": 56.9458,
+        "longitude": 24.1293
+      },
+      "address": "Akadēmijas laukums 1, Maskavas Forštate, Riga, LV-1050",
+      "category": "Architecture",
+      "description": "A 108m Stalinist skyscraper, completed 1951-1961, mirroring Moscow State University's 'Seven Sisters' towers. Financed by forced 'voluntary donations' from kolkhoz workers, locals nicknamed it 'Stalin’s birthday cake' for its tiered design. It offers panoramic views from its observation deck.",
+      "narrative_hooks": {
+        "history": "Completed between 1951 and 1961, this building is a quintessential example of Stalinist architecture in Riga, echoing Moscow's 'Seven Sisters'.",
+        "fun_fact": "Locals nicknamed the building 'Stalin’s birthday cake' due to its tiered design. Its original spire star, a Soviet five-pointed star, was removed in 1991.",
+        "architectural_detail": "A 108-meter high Stalinist skyscraper with a distinctive tiered design and a former spire, offering an observation deck."
+      },
+      "media": {
+        "image_url": null,
+        "attribution_text": null
+      },
+      "practical_info": {
+        "type": "Indoor",
+        "cost": "€ (for observation deck access)",
+        "operating_hours": "Varies (check observation deck hours)",
+        "estimated_duration_minutes": 30
+      }
+    }
+  ]
+}

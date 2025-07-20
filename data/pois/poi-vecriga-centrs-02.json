@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "description": "A curated list of Points of Interest (POIs) for the unfold.quest project, extracted from a user-provided document.",
+    "source_document_title": "Five Notable Art Nouveau Buildings in Riga's Centrs: Architectural Details and Their Symbolism",
+    "schema_version": "1.1",
+    "created_at": "2025-07-20T10:00:00Z"
+  },
+  "pois": [
+    {
+      "poi_id": "riga_alberta_iela_2a_sphinx",
+      "title": "Alberta iela 2a - The Sphinx Guardians",
+      "coordinates": {
+        "latitude": 56.9653,
+        "longitude": 24.1281
+      },
+      "address": "Alberta iela 2a, Centrs, Riga, LV-1010",
+      "category": "Architecture",
+      "description": "A masterpiece by Mikhail Eisenstein from 1906, known for its two sphinxes flanking the main entrance. These mysterious creatures symbolize security and protection, reflecting the Art Nouveau fascination with Egyptian motifs. They are complemented by female figures holding torches, symbolizing purification.",
+      "narrative_hooks": {
+        "history": "Designed by Mikhail Eisenstein in 1906, a prominent architect of Riga's Art Nouveau movement.",
+        "fun_fact": "The sphinxes, with their female faces, are symbolic guardians of the building, representing security.",
+        "architectural_detail": "Features two sphinxes and two sculptural female figures with torches, all integrated into a sophisticated entrance portal."
+      },
+      "media": {
+        "image_url": null,
+        "attribution_text": null
+      },
+      "practical_info": {
+        "type": "Outdoor",
+        "cost": "Free",
+        "operating_hours": "24/7",
+        "estimated_duration_minutes": 5
+      }
+    },
+    {
+      "poi_id": "riga_elizabetes_iela_10b_mascarons",
+      "title": "Elizabetes iela 10b - The Contemplative Female Mascarons",
+      "coordinates": {
+        "latitude": 56.9634,
+        "longitude": 24.1245
+      },
+      "address": "Elizabetes iela 10b, Centrs, Riga, LV-1010",
+      "category": "Architecture",
+      "description": "An iconic 1903 Eisenstein building famed for its two monumental, elongated female mascarons rising two floors high. These faces, set against blue ceramic tiles, are among Riga's most photographed architectural details and represent the Art Nouveau 'femme fatale' archetype.",
+      "narrative_hooks": {
+        "history": "Designed by Mikhail Eisenstein, the building's design was based on drawings by Leipzig architects Georg Wünschmann and Hans Kozel.",
+        "fun_fact": "The expressions of the mascarons are said to make observers 'ruminate about the meaning of life'.",
+        "architectural_detail": "Features two monumental, elongated female mascarons rising two floors high above the central avant-corps, set against blue ceramic tiles."
+      },
+      "media": {
+        "image_url": null,
+        "attribution_text": null
+      },
+      "practical_info": {
+        "type": "Outdoor",
+        "cost": "Free",
+        "operating_hours": "24/7",
+        "estimated_duration_minutes": 5
+      }
+    },
+    {
+      "poi_id": "riga_elizabetes_iela_10a_keyhole_window",
+      "title": "Elizabetes iela 10a - The Keyhole Window of Transportation",
+      "coordinates": {
+        "latitude": 56.9635,
+        "longitude": 24.1243
+      },
+      "address": "Elizabetes iela 10a, Centrs, Riga, LV-1010",
+      "category": "Architecture",
+      "description": "A companion building by Mikhail Eisenstein featuring a distinctive large window aperture in the shape of a keyhole on the upper floor. This element is Eisenstein's subtle signature, incorporating stylized carriage spring motifs to reference his work in the Public Transport Department.",
+      "narrative_hooks": {
+        "history": "Designed by Mikhail Eisenstein, reflecting his dual role as an architect and head of the Public Transport Department.",
+        "fun_fact": "The keyhole window and carriage spring motifs are a clever nod to Eisenstein's day job in public transport.",
+        "architectural_detail": "A large window aperture in the shape of a keyhole on the upper floor, with stylized carriage spring motifs throughout the façade."
+      },
+      "media": {
+        "image_url": null,
+        "attribution_text": null
+      },
+      "practical_info": {
+        "type": "Outdoor",
+        "cost": "Free",
+        "operating_hours": "24/7",
+        "estimated_duration_minutes": 5
+      }
+    },
+    {
+      "poi_id": "riga_alberta_iela_6_three_heads",
+      "title": "Alberta iela 6 - The Three Heads of Life's Journey",
+      "coordinates": {
+        "latitude": 56.9658,
+        "longitude": 24.1287
+      },
+      "address": "Alberta iela 6, Centrs, Riga, LV-1010",
+      "category": "Architecture",
+      "description": "An 1904 Eisenstein building featuring three symbolic heads above its main entrance gate, interpreted to represent a person's path through life. This powerful allegorical composition transforms a simple entrance into a philosophical statement about the passage of time and human experience.",
+      "narrative_hooks": {
+        "history": "A creation of Mikhail Eisenstein from 1904, known for its deep symbolic facade.",
+        "fun_fact": "The three heads may represent Mercury (god of commerce) flanked by a young girl and an older woman, symbolizing life's stages.",
+        "architectural_detail": "Three symbolic mascarons above the main entrance, creating a balanced yet emotionally resonant façade composition with red brick accents."
+      },
+      "media": {
+        "image_url": null,
+        "attribution_text": null
+      },
+      "practical_info": {
+        "type": "Outdoor",
+        "cost": "Free",
+        "operating_hours": "24/7",
+        "estimated_duration_minutes": 5
+      }
+    },
+    {
+      "poi_id": "riga_alberta_iela_12_spiral_staircase",
+      "title": "Alberta iela 12 - The Spiral Staircase of Natural Harmony",
+      "coordinates": {
+        "latitude": 56.9659,
+        "longitude": 24.1294
+      },
+      "address": "Alberta iela 12, Centrs, Riga, LV-1010",
+      "category": "Architecture",
+      "description": "Home to the Riga Art Nouveau Museum, this 1903 building by Konstantīns Pēkšēns and Eižens Laube boasts an extraordinary spiral staircase with ornamental ceiling paintings. It's a symbolic ascent through nature's beauty, adorned with stylized Latvian flora and fauna, exemplifying National Romanticism.",
+      "narrative_hooks": {
+        "history": "Designed by Konstantīns Pēkšēns and Eižens Laube in 1903, with ceiling paintings by artist Jānis Rozentāls.",
+        "fun_fact": "The staircase serves as a symbolic ascent through nature's beauty, celebrating local Latvian flora and fauna.",
+        "architectural_detail": "An extraordinary spiral staircase with intricate ornamental ceiling paintings, showcasing the integration of architecture, fine art, and nature."
+      },
+      "media": {
+        "image_url": null,
+        "attribution_text": null
+      },
+      "practical_info": {
+        "type": "Indoor",
+        "cost": "€€",
+        "operating_hours": "Tu-Su 10:00-18:00 (check museum hours)",
+        "estimated_duration_minutes": 30
+      }
+    }
+  ]
+}

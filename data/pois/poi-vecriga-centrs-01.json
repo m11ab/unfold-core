@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "description": "A curated list of Points of Interest (POIs) for the unfold.quest project, extracted from a user-provided document.",
+    "source_document_title": "Hidden Courtyards and Passages of Vecrīga: A Historian's Guide",
+    "schema_version": "1.1",
+    "created_at": "2025-07-20T10:00:00Z"
+  },
+  "pois": [
+    {
+      "poi_id": "riga_konventa_seta",
+      "title": "Konventa Sēta (Convent Courtyard)",
+      "coordinates": {
+        "latitude": 56.9478,
+        "longitude": 24.1089
+      },
+      "address": "Between Jāņa sēta, Kaļķu iela, Skārņu iela and Kalēju iela, Riga, LV-1050",
+      "category": "History",
+      "description": "One of Riga's oldest and most historically significant courtyard complexes, dating back to the 13th century. It once housed the Order of the Brothers of the Sword castle and later the Holy Spirit Convent. Today, it's a tranquil retreat featuring restored medieval architecture and home to the Museum of Decorative Arts and Design.",
+      "narrative_hooks": {
+        "history": "Originally the site of the Order of the Brothers of the Sword castle, sacked in 1297. It became the Holy Spirit Convent in the 14th century, lending its name to the courtyard.",
+        "fun_fact": "The Museum of Decorative Arts and Design is located within the oldest surviving stone building in Riga.",
+        "architectural_detail": "Features carefully restored medieval architecture, showcasing over 800 years of Riga's history."
+      },
+      "media": {
+        "image_url": null,
+        "attribution_text": null
+      },
+      "practical_info": {
+        "type": "Outdoor",
+        "cost": "Free",
+        "operating_hours": "24/7 (courtyard access, museum hours vary)",
+        "estimated_duration_minutes": 20
+      }
+    },
+    {
+      "poi_id": "riga_jana_seta",
+      "title": "Jāņa Sēta (St. John's Courtyard)",
+      "coordinates": {
+        "latitude": 56.9476,
+        "longitude": 24.1095
+      },
+      "address": "Adjacent to St. John's Church, accessed through an archway from Skārņu iela, Riga, LV-1050",
+      "category": "History",
+      "description": "Riga's historical birthplace, where Bishop Albert von Buxhoevden established his residence in 1201. This hidden courtyard preserves remnants of a 13th-century monastery wall and offers a peaceful oasis in the heart of Old Town.",
+      "narrative_hooks": {
+        "history": "The site where Bishop Albert, Riga's founder, established his residence in 1201, and home to remnants of a 13th-century monastery wall.",
+        "fun_fact": "The arched gateway leading into the courtyard is said to depict the back of the donkey that carried Jesus into Jerusalem.",
+        "architectural_detail": "Features authentic medieval masonry, including a distinctive arched gateway and remnants of a 13th-century monastery wall."
+      },
+      "media": {
+        "image_url": null,
+        "attribution_text": null
+      },
+      "practical_info": {
+        "type": "Outdoor",
+        "cost": "Free",
+        "operating_hours": "24/7",
+        "estimated_duration_minutes": 15
+      }
+    },
+    {
+      "poi_id": "riga_history_museum_secret_garden",
+      "title": "The Secret Garden of the Museum of the History of Riga and Navigation",
+      "coordinates": {
+        "latitude": 56.9493,
+        "longitude": 24.1051
+      },
+      "address": "Behind the Museum of the History of Riga and Navigation, Palasta Street, Riga, LV-1050",
+      "category": "Hidden Gem",
+      "description": "A serene and largely overlooked garden courtyard tucked behind one of Latvia's most important museums. Surrounded by historical buildings and ancient walls, it offers a peaceful retreat and a picturesque setting cherished by photographers.",
+      "narrative_hooks": {
+        "history": "The garden is connected to the Museum of the History of Riga and Navigation, which has operated since 1773, making it one of Europe's oldest public museums.",
+        "fun_fact": "This tranquil space is a favorite spot for photographers due to its picturesque and authentic medieval atmosphere.",
+        "architectural_detail": null
+      },
+      "media": {
+        "image_url": null,
+        "attribution_text": null
+      },
+      "practical_info": {
+        "type": "Outdoor",
+        "cost": "Free (access may be tied to museum hours/ticket)",
+        "operating_hours": "Varies (check museum hours)",
+        "estimated_duration_minutes": 10
+      }
+    },
+    {
+      "poi_id": "riga_berga_bazars",
+      "title": "Berga Bazārs Hidden Courtyards",
+      "coordinates": {
+        "latitude": 56.9542,
+        "longitude": 24.1166
+      },
+      "address": "Complex between Elizabetes, Marijas, and Dzirnavu streets, Riga, LV-1050",
+      "category": "Architecture",
+      "description": "A complex of hidden courtyards built between 1887 and 1900, representing Riga's 19th-century commercial renaissance. Inspired by European arcades and Eastern markets, it features beautiful fountains and meticulously restored arcade-style walkways, now home to boutique shops and cafés.",
+      "narrative_hooks": {
+        "history": "Built by Kristaps Bergs, one of the first Latvian businessmen to challenge the German-dominated commercial establishment of the era.",
+        "fun_fact": "The complex was revolutionary for its time, designed with inspirations from both European arcades and Eastern markets.",
+        "architectural_detail": "Features beautiful fountains and arcade-style walkways, meticulously restored to their 19th-century glory."
+      },
+      "media": {
+        "image_url": null,
+        "attribution_text": null
+      },
+      "practical_info": {
+        "type": "Outdoor",
+        "cost": "Free",
+        "operating_hours": "Generally open during business hours of shops/cafes",
+        "estimated_duration_minutes": 25
+      }
+    },
+    {
+      "poi_id": "riga_three_brothers_courtyard",
+      "title": "The Three Brothers Hidden Courtyard",
+      "coordinates": {
+        "latitude": 56.9501,
+        "longitude": 24.1044
+      },
+      "address": "Behind 17-21 Mazā Pils Street, Riga, LV-1050",
+      "category": "Architecture",
+      "description": "A unified courtyard located behind Riga's famous Three Brothers medieval dwelling houses. During restoration, the separate backyards were connected, incorporating stone portals and the Riga Coat of Arms, showcasing the evolution of residential architecture across three centuries.",
+      "narrative_hooks": {
+        "history": "The oldest building dates to around 1490 (late Gothic), while the others showcase Renaissance and Baroque influences from the 17th century.",
+        "fun_fact": "The separate backyards of the three buildings were connected during restoration, creating a cohesive space with integrated historical elements.",
+        "architectural_detail": "Displays the evolution of Riga's residential architecture from late Gothic to Renaissance and Baroque styles, featuring stone portals and the Riga Coat of Arms."
+      },
+      "media": {
+        "image_url": null,
+        "attribution_text": null
+      },
+      "practical_info": {
+        "type": "Outdoor",
+        "cost": "Free (courtyard access)",
+        "operating_hours": "Generally open during Latvian Museum of Architecture hours",
+        "estimated_duration_minutes": 15
+      }
+    }
+  ]
+}

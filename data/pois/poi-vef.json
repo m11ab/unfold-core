@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "description": "A curated list of Points of Interest (POIs) for the unfold.quest project, extracted from a user-provided document.",
+    "source_document_title": "Key Surviving Buildings of the Former VEF Factory District in Riga",
+    "schema_version": "1.1",
+    "created_at": "2025-07-20T10:00:00Z"
+  },
+  "pois": [
+    {
+      "poi_id": "riga_vef_main_manufacturing_hall",
+      "title": "VEF Main Manufacturing Hall",
+      "coordinates": {
+        "latitude": 56.968,
+        "longitude": 24.162
+      },
+      "address": "Brīvības gatve 214B, Riga, LV-1039",
+      "category": "Architecture",
+      "description": "Erected in 1899 for the Union company and later part of VEF, this red-brick hall was the primary production space for electrotechnical goods like phones, radios, and cameras. Today, it has been restored and converted into a modern business center, VEF Kvartāls, housing IT firms.",
+      "narrative_hooks": {
+        "history": "Originally built in 1899 for the Union company, it became the main production hall for VEF, a leading electrotechnical factory in the interwar period.",
+        "fun_fact": "This hall was where iconic products like 'Perkons' cameras and early telephone exchanges were manufactured.",
+        "architectural_detail": "A large red-brick industrial hall, showcasing late 19th-century factory architecture, now adaptively reused."
+      },
+      "media": {
+        "image_url": null,
+        "attribution_text": null
+      },
+      "practical_info": {
+        "type": "Indoor",
+        "cost": "Free (for exterior viewing, access to some areas may be restricted)",
+        "operating_hours": "Typically business hours for offices",
+        "estimated_duration_minutes": 10
+      }
+    },
+    {
+      "poi_id": "riga_vef_administration_building",
+      "title": "VEF Administration Building",
+      "coordinates": {
+        "latitude": 56.965,
+        "longitude": 24.158
+      },
+      "address": "Brīvības gatve 182, Riga, LV-1012",
+      "category": "Architecture",
+      "description": "This neoclassical-styled structure, built in the early 20th century, served as VEF’s corporate headquarters, housing executive offices and design bureaus. After a comprehensive renovation in 2017, it reopened as a boutique office building offering flexible workspaces within the VEF Quarter.",
+      "narrative_hooks": {
+        "history": "Once the corporate headquarters of VEF, overseeing the extensive operations of the factory.",
+        "fun_fact": "The building now provides flexible workspaces for startups and creative agencies.",
+        "architectural_detail": "A neoclassical-styled building, indicative of early 20th-century corporate architecture, fully renovated while retaining its historical character."
+      },
+      "media": {
+        "image_url": null,
+        "attribution_text": null
+      },
+      "practical_info": {
+        "type": "Indoor",
+        "cost": "Free (for exterior viewing)",
+        "operating_hours": "Typically business hours for offices",
+        "estimated_duration_minutes": 5
+      }
+    },
+    {
+      "poi_id": "riga_vef_culture_palace",
+      "title": "VEF Culture Palace",
+      "coordinates": {
+        "latitude": 56.9657,
+        "longitude": 24.1678
+      },
+      "address": "Ropažu iela 2, Riga, LV-1006",
+      "category": "Architecture",
+      "description": "Built from 1951–1960 as a grand workers’ cultural center for VEF personnel, this socialist-realist architectural gem includes a large auditorium, library, and cinema. Following a 2017 renovation, it now operates as Riga’s largest municipal cultural institution, hosting diverse events and the VEF History Museum.",
+      "narrative_hooks": {
+        "history": "Constructed during the Soviet era (1951-1960) as a cultural hub for VEF factory workers, it reflected the socialist-realist architectural style.",
+        "fun_fact": "The palace once featured a cinema and library and could seat over 800 attendees in its auditorium.",
+        "architectural_detail": "A prominent example of mid-century socialist-realist architecture, with grand halls and a well-preserved original design."
+      },
+      "media": {
+        "image_url": null,
+        "attribution_text": null
+      },
+      "practical_info": {
+        "type": "Indoor",
+        "cost": "Free (for general access, events/museum may have fees)",
+        "operating_hours": "Varies by events and museum hours",
+        "estimated_duration_minutes": 30
+      }
+    },
+    {
+      "poi_id": "riga_vef_vasarnica_hall",
+      "title": "VEF Vasarnīca (“Summer House”) Hall",
+      "coordinates": {
+        "latitude": 56.9669,
+        "longitude": 24.164
+      },
+      "address": "Ieriķu iela 5A, Riga, LV-1039",
+      "category": "Architecture",
+      "description": "Once an internal 'covered street' within the VEF complex used for material transfer and informal worker gatherings, this hall was converted in 2023 into a 600 m² industrial-style event space. With high ceilings and exposed brick, it now hosts concerts, fashion shows, and corporate events as part of VEF Kvartāls.",
+      "narrative_hooks": {
+        "history": "Historically served as an internal 'covered street' for material transfer and informal gatherings of VEF workers.",
+        "fun_fact": "Its name, 'Summer House,' alludes to its former informal use as a sheltered gathering place.",
+        "architectural_detail": "A 600 m² industrial-style event space with high ceilings and exposed brick, preserving its industrial past."
+      },
+      "media": {
+        "image_url": null,
+        "attribution_text": null
+      },
+      "practical_info": {
+        "type": "Indoor",
+        "cost": "Varies by event",
+        "operating_hours": "Varies by event schedule",
+        "estimated_duration_minutes": 10
+      }
+    },
+    {
+      "poi_id": "riga_vef_workers_club_gym",
+      "title": "VEF Workers’ Club / Gym Building",
+      "coordinates": {
+        "latitude": 56.967,
+        "longitude": 24.16
+      },
+      "address": "Brīvības gatve 197, Riga, LV-1039",
+      "category": "Architecture",
+      "description": "Opened in spring 1945, this building was VEF’s on-site workers’ club, offering recreational and social activities like a cinema and library for factory staff. Now repurposed as a public gym, it retains its red-brick façade while serving the Teika neighborhood as a modern fitness facility.",
+      "narrative_hooks": {
+        "history": "Built in 1945 as a dedicated workers' club, providing cultural and recreational activities for VEF employees.",
+        "fun_fact": "The building once featured a cinema and library for the factory's staff.",
+        "architectural_detail": "A red-brick building that has been adaptively reused while maintaining its original façade, symbolizing the transformation of industrial welfare facilities."
+      },
+      "media": {
+        "image_url": null,
+        "attribution_text": null
+      },
+      "practical_info": {
+        "type": "Indoor",
+        "cost": "Varies (for gym access)",
+        "operating_hours": "Check gym operating hours",
+        "estimated_duration_minutes": 10
+      }
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "metadata": {
+    "description": "A curated list of Points of Interest (POIs) for the unfold.quest project, extracted from a user-provided document.",
+    "source_document_title": "Mežaparks: A Pioneering Garden City and Its Enduring Design Legacy",
+    "schema_version": "1.1",
+    "created_at": "2025-07-20T10:00:00Z"
+  },
+  "pois": [
+    {
+      "poi_id": "riga_mezaparks_green_theatre",
+      "title": "The Green Theatre (Zaļais teātris)",
+      "coordinates": {
+        "latitude": 57.004,
+        "longitude": 24.168
+      },
+      "address": "In Mežaparks, near Kokneses prospekts 26, Riga, LV-1014",
+      "category": "Art",
+      "description": "An open-air performance venue constructed in 1949 as part of the Soviet-era park expansion. Designed to integrate with the natural forest setting, it offers an amphitheater effect with surrounding trees providing acoustic and visual backdrop. It was restored in 2003 and continues to host concerts, festivals, and theater performances.",
+      "narrative_hooks": {
+        "history": "Built in 1949 as a key cultural feature of the Soviet-era Mežaparks, it was the venue for the park's official opening ceremony in 1950.",
+        "fun_fact": "The original Green Theatre had a capacity for 8,000 visitors, designed for large-scale public events.",
+        "architectural_detail": "An open-air amphitheater that skillfully uses natural topography, with the surrounding forest providing acoustic and visual integration."
+      },
+      "media": {
+        "image_url": null,
+        "attribution_text": null
+      },
+      "practical_info": {
+        "type": "Outdoor",
+        "cost": "Varies by event",
+        "operating_hours": "Varies by event schedule",
+        "estimated_duration_minutes": 20
+      }
+    },
+    {
+      "poi_id": "riga_mezaparks_newlyweds_hill_rhododendron_garden",
+      "title": "Newlyweds' Hill - The Rhododendron Garden",
+      "coordinates": {
+        "latitude": 57.010,
+        "longitude": 24.156
+      },
+      "address": "In Mežaparks, near Ezera iela 28, Riga, LV-1014",
+      "category": "Nature",
+      "description": "A specialized garden area within Mežaparks, known for its extensive collection of rhododendrons. This botanical highlight showcases Latvia's expertise in rhododendron cultivation and exemplifies the park's design philosophy of integrating horticultural excellence with natural landscape changes, particularly vibrant during its May/June bloom.",
+      "narrative_hooks": {
+        "history": "Part of Mežaparks' original design philosophy by Georg Kuphaldt, emphasizing botanical diversity and seasonal changes.",
+        "fun_fact": "The garden's development is linked to Latvia's specialized Rhododendron Breeding and Testing Nursery 'Babīte', which has over 500 rhododendron species and cultivars.",
+        "architectural_detail": "A landscaped garden on elevated terrain, designed to create natural viewpoints and dramatic displays during the blooming season."
+      },
+      "media": {
+        "image_url": null,
+        "attribution_text": null
+      },
+      "practical_info": {
+        "type": "Outdoor",
+        "cost": "Free",
+        "operating_hours": "Open daily during park hours",
+        "estimated_duration_minutes": 30
+      }
+    },
+    {
+      "poi_id": "riga_mezaparks_squirrel_sculpture",
+      "title": "Mežaparks ANNO 1901\" Squirrel Sculpture",
+      "coordinates": {
+        "latitude": 57.005,
+        "longitude": 24.164
+      },
+      "address": "Intersection of Atpūtas Avenue, Ostas Prospekt, and J.Janševska Prospekt, Mežaparks, Riga, LV-1014",
+      "category": "Art",
+      "description": "A monumental 3.6-meter-high squirrel sculpture, created by Kārlis Īle in 2021 to commemorate Mežaparks' 120th anniversary. Made from natural granite, steel, and wire, it serves as a symbolic landmark at the park's central circulation hub, connecting its forest identity with its garden city origins.",
+      "narrative_hooks": {
+        "history": "Created to celebrate the 120th anniversary of Mežaparks as a pioneering garden city, with 'ANNO 1901' inscribed on its base.",
+        "fun_fact": "The 1.5-ton sculpture is constructed from natural granite stone, black and stainless steel, using an intricate openwork wire technique.",
+        "architectural_detail": "A large-scale contemporary sculpture of a squirrel, made with detailed metalworking, strategically placed as a park landmark."
+      },
+      "media": {
+        "image_url": null,
+        "attribution_text": null
+      },
+      "practical_info": {
+        "type": "Outdoor",
+        "cost": "Free",
+        "operating_hours": "24/7",
+        "estimated_duration_minutes": 5
+      }
+    }
+  ]
+}
