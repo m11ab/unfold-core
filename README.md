@@ -45,6 +45,8 @@ This project leverages a modern, robust, and observable technology stack, design
 
 This repository is structured to be clear for both human developers and LLM-powered assistants. The architecture separates data, application logic, agent definition, and tools into distinct modules.
 
+```
+
 unfold-core/
 │
 ├── .env.example             # Template for environment variables (API keys, etc.)
@@ -89,6 +91,7 @@ unfold-core/
     ├── test_tools.py        # Unit tests for the agent's tools.
     └── test_agent.py        # Integration tests for the agent workflow.
 
+```
 
 ## 5. Getting Started
 
